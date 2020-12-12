@@ -1,0 +1,89 @@
+Lionel Messi,4,2200,FC Barcelona,85,65,92,91,38,95
+Cristiano Ronaldo,4,2100,Juventus FC,89,77,93,81,35,89
+Kylian Mbappe,4,1900,Paris Saint-Germain F.C.,96,76,86,78,39,91
+Neymar Jr.,4,1900,Paris Saint-Germain F.C.,91,59,85,86,36,94
+Luis Suarez,4,1800,Atletico Madrid,70,83,90,82,51,83
+Zlatan Ibrahimovic,4,2000,AC Milan,52,77,88,77,34,79
+Sadio Mane,4,1500,Liverpool FC,94,76,85,80,44,90
+Mohamed Salah,4,1850,Liverpool FC,93,75,86,81,45,90
+Robert Lewandowski,4,2050,FC Bayern Munich,78,82,91,78,43,86
+Harry Kane,4,1500,Tottenham Hotspur F.C.,68,83,91,80,47,81
+Pierre-Emerick Aubameyang,4,1300,Arsenal FC,93,69,86,75,38,81
+Erling Haaland,4,1250,Borussia Dortmund,84,85,87,63,43,76
+Pele,4,2150,Legends,95,76,96,93,60,96
+Paulo Dybala,4,1650,Juventus FC,85,63,85,84,43,91
+Jamie Vardy,4,1350,Leicester City FC,88,75,85,66,55,79
+Thierry Henry,4,1200,Legends,94,80,91,83,53,90
+Mason Greenwood,4,1000,Manchester United FC,81,67,78,71,39,78
+Diego Costa,4,950,Atletico Madrid,73,86,79,65,48,74
+Marcus Rashford,4,1050,Manchester United,91,78,83,78,45,85
+Thomas Muller,4,1650,FC Bayern Munich,68,71,82,82,56,78
+Carlos Vela,4,500,Los Angeles FC,80,67,82,78,31,84
+Chris Wondolowski,4,750,San Jose Earthquakes,40,67,71,57,46,62
+Jozy Altidore,4,950,Toronto FC,67,80,75,61,32,69
+Kei Kamara,4,400,Colorado Rapids,73,78,72,61,35,71
+Josef Martinez,4,350,Atlanta United FC,89,75,80,61,25,79
+Kevin De Bruyne,3,1700,Manchester City FC,76,78,86,93,64,88
+Luka Modric,3,1300,Real Madrid C.F.,73,66,76,89,71,88
+N'Golo Kante,3,1250,Chelsea FC,77,82,66,76,86,81
+Toni Kroos,3,1100,Real Madrid C.F.,54,69,81,91,71,81
+Paul Pogba,3,1500,Manchester United FC,73,85,81,86,66,85
+Andres Iniesta,3,1700,FC Barcelona,58,59,70,85,62,85
+Frenkie de Jong,3,700,FC Barcelona,80,77,64,84,76,87
+Xavi,3,1800,Legends,77,68,74,93,66,92
+Zinedine Zidane,3,2000,Legends,82,83,90,93,72,92
+Andrea Pirlo,3,1800,Legends,70,64,79,91,66,90
+Steven Gerrard,3,1750,Legends,70,81,85,88,80,78
+Mesut Ozil,3,1450,Arsenal FC,64,55,69,85,24,83
+Arturo Vidal,3,900,Inter Milan,65,86,79,79,83,78
+Xabi Alonso,3,700,FC Bayern Munich,33,70,70,86,72,74
+Philippe Coutinho,3,1200,FC Barcelona,72,59,79,82,52,88
+Riyad Mahrez,3,1200,Manchester City FC,83,59,79,81,38,90
+Douglas Costa,3,700,Juventus FC,93,59,73,79,43,90
+Christian Eriksen,3,500,Inter Milan,72,63,81,88,53,82
+Christian Pulisic,3,1250,Chelsea,89,59,70,72,37,84
+Julian Gressel,3,400,DC United,72,76,66,74,61,71
+Jonathan dos Santos,3,600,LA Galaxy,71,70,66,79,70,77
+Nicolas Lodeiro,3,300,Seattle Sounders FC,71,71,72,80,49,81
+Pity Martinez,3,450,Atlanta United,88,62,74,71,34,82
+Jack Price,3,500,Colorado Rapids,52,72,47,71,63,65
+Will Vint,3,250,Colorado Rapids,60,56,40,54,48,56
+Sergio Ramos,2,2000,Real Madrid C.F.,71,85,70,76,88,74
+Gerard Pique,2,1700,FC Barcelona,57,80,61,71,86,69
+Virgil van Dijk,2,1900,Liverpool FC,76,86,60,71,91,72
+Giorgio Chiellini,2,1550,Juventus FC,66,79,46,58,90,62
+Thiago Silva,2,1600,Chelsea FC,59,78,54,72,86,72
+Carles Puyol,2,1400,Legends,72,91,45,66,93,58
+Jerome Boateng,2,1450,FC Bayern Munic,70,79,50,72,82,66
+Marcelo Vieira,2,1700,Reald Madrid C.F.,79,76,73,80,76,88
+Pepe,2,1300,FC Porto,66,85,51,60,82,61
+Vincent Kompany,2,1400,Manchester City FC,50,79,53,65,84,64
+David Luiz,2,1250,Arsenal FC,60,78,65,74,79,71
+John Terry,2,1500,Legends,34,80,47,57,86,51
+Joshua Kimmich,2,1050,FC Bayern Munich,71,79,72,86,81,84
+Samuel Umtiti,2,1100,FC Barcelona,66,79,62,69,83,69
+Marquinhos,2,900,Paris Saint-Germain F.C.,72,78,41,73,87,71
+David Alaba,2,1100,FC Bayern Munich,77,76,70,81,83,80
+Fernandinho,2,950,Manchester City FC,64,79,72,78,85,78
+Joe Gomez,2,400,Liverpool FC,84,82,32,69,85,72
+Hector Bellerin,2,1000,Arsenal FC,87,65,51,70,76,77
+Alphonso Davies,2,1200,FC Bayern Munich,96,76,67,69,76,82
+Benjamin Pavard,2,1100,FC Bayern Munich,69,76,53,73,81,72
+Aaron Long,2,700,New York Red Bulls,80,86,45,65,82,73
+Jack Elliot,2,500,Philadelphia Union,57,77,24,45,70,50
+Keegan Rosenberry,2,450,Colorado Rapids,70,71,51,63,69,68
+Omar Gonzales,2,300,Toronto FC,56,81,36,50,70,45
+Gianluigi Buffon,1,2000,Juventus FC,77,91,74,76,34,78
+Peter Schmeichel,1,2100,Legends,92,90,87,88,52,94
+Iker Casillas,1,1700,FC Porto,85,86,76,61,55,84
+Manuel Neuer,1,2100,FC Bayern Munich,87,86,87,91,56,89
+Petr Cech,1,1600,Legends,87,89,87,79,50,88
+David de Gea,1,1550,Manchester United FC,88,82,81,78,57,89
+Thibaut Courtois,1,1300,Real Madrid C.F.,84,85,89,74,46,88
+Tim Howard,1,1200,Colorado Rapids,72,71,72,72,39,68
+Hugo Lloris,1,1100,Tottenham Hotspur F.C.,89,84,82,68,64,90
+Marc-Andre ter Stegen,1,1650,FC Barcelona,88,88,85,88,43,90
+
+
+
+// name,position,price,team name,pace,strength,shooting,passing,defending,dribbling

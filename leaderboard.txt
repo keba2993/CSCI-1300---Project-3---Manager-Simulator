@@ -1,0 +1,13 @@
+<Rank>           <team name>        <W/L/T>     <GA> - <GF>
+ 1.                  AS Roma         1/0/0         1 - 6
+ 2.             FC Barcelona         1/0/0         1 - 6
+ 3.            VfL Wolfsburg         1/0/0         2 - 7
+ 4.         New York City FC         1/0/0         2 - 4
+ 5.          Colorado Rapids         1/0/0         3 - 4
+ 6.                 AC Milan         1/0/0         4 - 7
+ 7.               Arsenal FC         0/1/0         4 - 3
+ 8. Paris Saint-Germain F.C.         0/1/0         4 - 2
+ 9.           Los Angeles FC         0/1/0         6 - 1
+10.               Chelsea FC         0/1/0         6 - 1
+11.        Borussia Dortmund         0/1/0         7 - 4
+12.          Atletico Madrid         0/1/0         7 - 2
